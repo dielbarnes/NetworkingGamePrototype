@@ -9,6 +9,6 @@ Uses SFML 2.5.1 (https://www.sfml-dev.org)
 Uses TGUI 0.8.1 (https://tgui.eu)
 
 ### Resources
-Character sprites are from https://sicklyseraph.itch.io/jeremy-and-martha
-Fountain sprite is from https://opengameart.org/content/lpc-water-fountain
+Character sprites are from https://sicklyseraph.itch.io/jeremy-and-martha  
+Fountain sprite is from https://opengameart.org/content/lpc-water-fountain  
 Coin sprite is from https://opengameart.org/content/animated-coins
